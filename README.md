@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gabriel Aihara</h1>
 <h3 align="center">A passionate fullstack developer from São Paulo - Brazil</h3>
 
-- 🔭 I’m currently working on **MFC - INVENT Smart Intralogistics Solutions**
+- 🔭 I’m currently working on **MFC - INVENT Smart Intralogistics Solutions.**
 
 - 🌱 I’m currently learning **Decentralized applications**
 
