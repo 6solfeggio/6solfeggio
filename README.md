@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Gabriel Aihara</h1>
 <h3 align="center">A passionate fullstack developer from São Paulo - Brazil</h3>
 
-- 🔭 I’m currently working on **MFC - INVENT Smart Intralogistics Solutions.**
+- 🔭 I’m currently working on: **MFC - INVENT Smart Intralogistics Solutions.**
 
-- 🌱 I’m currently learning **Decentralized applications**
+- 🌱 I’m currently learning: **Decentralized applications**
 
-- 💬 Ask me about **PHP, Laravel, Solidity, C, C++, Rust, Go, Javascript, Web3js, React, Angular, Vue.**
+- 💬 Ask me about: **PHP, Laravel, Solidity, C, C++, Rust, Go, Javascript, Web3js, React, Angular, Vue.**
 
-- 📫 How to reach me **gabriel.aihara@outlook.com**
+- 📫 How to reach me: **gabriel.aihara@outlook.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/piucci](https://www.linkedin.com/in/piucci/)
+- 📄 Know about my experiences: [https://www.linkedin.com/in/piucci](https://www.linkedin.com/in/piucci/)
 
-- ⚡ Fun fact **I never make the same mistake twice.**
+- ⚡ Fun fact: **I never make the same mistake twice.**
 
   
   <h3 align="left">Languages and Tools:</h3>
