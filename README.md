@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Decentralized applications**
 
-- 💬 Ask me about **PHP, Laravel, Solidity, C, C++, Rust, Go, Javascript,Web3js, React, Angular, Vue**
+- 💬 Ask me about **PHP, Laravel, Solidity, C, C++, Rust, Go, Javascript, Web3js, React, Angular, Vue**
 
 - 📫 How to reach me **gabriel.aihara@outlook.com**
 
