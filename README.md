@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **gabriel.aihara@outlook.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/piucci/](https://www.linkedin.com/in/piucci/)
+- 📄 Know about my experiences [https://www.linkedin.com/in/piucci](https://www.linkedin.com/in/piucci/)
 
 - ⚡ Fun fact **I never make the same mistake twice.**
 
