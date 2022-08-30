@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on: **MFC - INVENT Smart Intralogistics Solutions.**
 
-- 🌱 I’m currently learning: **Decentralized applications.**
+- 🌱 I’m currently learning: **Decentralized applications**
 
 - 💬 Ask me about: **PHP, Laravel, Solidity, C, C++, Rust, Go, Javascript, Web3js, React, Angular, Vue.**
 
