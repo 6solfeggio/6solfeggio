@@ -2,6 +2,8 @@
  
  ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+IS+GABRIEL+AIHARA;/Welcome+:%29)
 
+#
+
 <p align="center">
   <a href="https://www.instagram.com/miwimp/" alt="Instagram">
     <img src="https://img.shields.io/badge/-Instagram-6610F2?style=for-the-badge&logo=Instagram&logoColor=FFFFFF&link=https://www.instagram.com/miwimp"/>
