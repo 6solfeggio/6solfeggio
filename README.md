@@ -4,9 +4,8 @@
 
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=6solfeggio&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Matheus Maia Alvarez github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=6solfeggio&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
-</div>
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=6solfeggio&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" /> 
+![6solfeggio's Streak](https://github-readme-streak-stats.herokuapp.com/?user=6solfeggio&theme=tokyonight&hide_border=false)
 
 ![Contribution](https://activity-graph.herokuapp.com/graph?username=6solfeggio&theme=gotham&hide_border=true&area=true)
 
