@@ -1,6 +1,6 @@
 
 
-<img src="https://media.discordapp.net/attachments/1004448125144018955/1006924271118991370/FireShot_Capture_001_-_Logo_Creator_-_Make_a_logo_with_Free_Logo_Design_-_editor.freelogodesign.org.png" min-width="300px" max-width="300px" width="300px" align="right" alt="lain">
+<img src="https://media.discordapp.net/attachments/1004448125144018955/1006924271118991370/FireShot_Capture_001_-_Logo_Creator_-_Make_a_logo_with_Free_Logo_Design_-_editor.freelogodesign.org.png" min-width="80px" max-width="80px" width="80px" align="right" alt="lain">
 
  
 
