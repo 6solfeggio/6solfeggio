@@ -2,23 +2,6 @@
 <img src="https://64.media.tumblr.com/a15deadab72b146a145d94296bc995c8/76ddb15319c722e6-16/s1280x1920/c736d72330094e8a1023a2f7336de4ff87893173.gif" align="center" style="width: 100%" />
 </div>  
   
-<table><tr><td valign="top" width="33%">
-
-
-
-</td><td valign="top" width="33%">
-
-
-
-</td><td valign="top" width="33%">
-
-
-
-</td></tr></table>  
-
-<br/>  
-
-<br/>  
 
 <h1 align="center">Hi 👋, I'm Gabriel Aihara.</h1>
 <h3 align="center">A passionate fullstack developer from São Paulo - Brazil</h3>
@@ -50,4 +33,30 @@
 </div>
 
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=shorykays&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
+## Github Stats  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=6solfeggio&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+
+<br/>  
+
+**The only thing you'll see in this profile are public repositories that I'm interested in. All private projects are in extreme secrecy, in which no company will be able to request to see, not even their contribution. These are government, business and personal codes.**  
+  
+
+<br/>  
+
+<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=shorykays&cover_image=true&theme=compact" /></div>  
+
+<br/>  
+
+  
+
+<br/>  
+
+  
+
+<br/>  
+
+
+<br />
+
+----
+<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
