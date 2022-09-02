@@ -41,4 +41,4 @@
 
 <br/>  
 
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=shorykays&cover_image=true&theme=compact" /></div>  
+<div align="center" min-width="80px" max-width="80px" width="80px" align="right" alt="lain"><img src="https://spotify-github-profile.vercel.app/api/view?uid=shorykays&cover_image=true&theme=compact" /></div>  
