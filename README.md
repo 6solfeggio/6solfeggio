@@ -33,8 +33,8 @@
 </div>
 
 
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=6solfeggio&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+![](https://github-readme-stats.vercel.app/api?username=6solfeggio&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=6solfeggio&theme=dark&hide_border=false)<br/>
 
 <br/>  
 
