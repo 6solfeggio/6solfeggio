@@ -1,3 +1,10 @@
+<div align="center">
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+</div>  
+  
+
+<br/>  
+
 <h1 align="center">Hi 👋, I'm Gabriel Aihara.</h1>
 <h3 align="center">A passionate fullstack developer from São Paulo - Brazil</h3>
 
