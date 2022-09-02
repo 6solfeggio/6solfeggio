@@ -39,4 +39,6 @@
 </p>
 
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=shorykays&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
+<br/>  
+
+<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=shorykays&cover_image=true&theme=compact" /></div>  
