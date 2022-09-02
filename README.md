@@ -19,18 +19,6 @@
 </div> 
  
 
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
-
-
-
-<img src="https://media.discordapp.net/attachments/1004448125144018955/1006924271118991370/FireShot_Capture_001_-_Logo_Creator_-_Make_a_logo_with_Free_Logo_Design_-_editor.freelogodesign.org.png" min-width="80px" max-width="80px" width="80px" align="right" alt="lain">
-
- 
-
-<h1 align="center">Hi 👋, I'm Gabriel Aihara.</h1>
-<h3 align="center">A passionate fullstack developer from São Paulo - Brazil</h3>
-
 - 👨‍💻 I’m currently working on: **MFC - INVENT Smart Intralogistics Solutions.**
 
 - 🌱 I’m currently learning: **Decentralized applications.**
@@ -71,3 +59,6 @@
     <img src="https://img.shields.io/badge/-Discord-6610F2?style=for-the-badge&logo=Discord&logoColor=FFFFFF&link=https://discord.gg/VvZFCTbg"/>
   </a>
 </p>
+
+ 
+ <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
