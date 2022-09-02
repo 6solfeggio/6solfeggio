@@ -1,4 +1,4 @@
-<img src="https://i0.wp.com/loja.otakubfx.com.br/wp-content/uploads/2021/04/logo-loja-otakubfx-1-gif.gif?fit=615%2C381&ssl=1" min-width="300px" max-width="300px" width="300px" align="right" alt="lain">
+<img src="#" min-width="300px" max-width="300px" width="300px" align="right" alt="lain">
 
  
 
