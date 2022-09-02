@@ -10,11 +10,7 @@
 
 ![Contribution](https://activity-graph.herokuapp.com/graph?username=6solfeggio&theme=gotham&hide_border=true&area=true)
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=6solfeggio&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-</p>
 
- 
 
 - 👨‍💻 I’m currently working on: **MFC - INVENT Smart Intralogistics Solutions.**
 
