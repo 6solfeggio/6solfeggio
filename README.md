@@ -23,7 +23,7 @@
   
   ##
  
-<p align="left">
+<p align="center">
   <a href="https://www.instagram.com/iuricode/" alt="Instagram">
     <img src="https://img.shields.io/badge/-Instagram-6610F2?style=for-the-badge&logo=Instagram&logoColor=FFFFFF&link=https://www.instagram.com/miwimp"/>
   </a>
