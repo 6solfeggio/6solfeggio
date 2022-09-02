@@ -41,19 +41,6 @@
 
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=shorykays&cover_image=true&theme=compact" /></div>   
 
-<p align="center">
-  <a href="https://www.instagram.com/iuricode/" alt="Instagram">
-    <img src="https://img.shields.io/badge/-Instagram-6610F2?style=for-the-badge&logo=Instagram&logoColor=FFFFFF&link=https://www.instagram.com/miwimp"/>
-  </a>
-  
-  <a href="https://www.linkedin.com/in/iuricode" alt="Linkedin">
-    <img src="https://img.shields.io/badge/-Linkedin-6610F2?style=for-the-badge&logo=Linkedin&logoColor=FFFFFF&link=https://www.linkedin.com/in/piucci"/>
-  </a>
-  
-  <a href="https://discord.gg/QevDJqCzaY" alt="Discord">
-    <img src="https://img.shields.io/badge/-Discord-6610F2?style=for-the-badge&logo=Discord&logoColor=FFFFFF&link=https://discord.gg/VvZFCTbg"/>
-  </a>
-</p>
 
  
  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
